@@ -1,0 +1,15 @@
+- name: JavaScript (Selenium, Protractor)
+  percentage: 90
+  color: danger
+
+- name: Java (BDD, JBehave)
+  percentage: 90
+  color:
+
+- name: Python
+  percentage: 70
+  color: dark
+
+- name: Jenkins
+  percentage: 65
+  color: success

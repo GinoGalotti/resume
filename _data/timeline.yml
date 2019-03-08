@@ -1,17 +1,31 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
+- title: QA Automation, GAN Integrity, DK
   from: 2018
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I joined GAN Integrity to bootstrap their Testing automation and infrastracture. 
+               Starting frameworks, managing the pipeline, pairing with developers and joining early discussions; 
+               you name it! Whatever was needed to assess the Qualiy!
+
+- title: Quality Assistance, Unity, DK
+  from: 2018
+  to: 2016
+  description: Joined Unity as an SDET to help shifting the development culture to Quality first. 
+               Supporting developers with frameworks and evangelising for best practices. 
+               You can read <a rel="nofollow" target="_blank" href="https://blogs.unity3d.com/2017/07/21/a-look-inside-core-foundation-team-and-improving-unitys-testing-practices/">an example of what my work</a>!
+
+title: Quality Inquisitor, ImportIO, UK
+  from: 2016
+  to: 2014
+  description: I joined import.io to work on their testing infrastracture and how to ensure the quality of the product at speed. 
+               We were a small team and the tasks ranged from creating frontend/backend testing frameworks, performance testing or testing with the users.
+               
+title: Java Developer & SDET, Humble beginnings, SPAIN
+  from: 2012
+  to: 2014
+  description: During my first years, I worked as a Java Developer and found my foot on the testing side. I learned the importance of Performance testing at The Workshop, 
+               how to work in a team on Tech on Rails and usability with newFasant.
+
+title: Computer Science Mst (Knowledge Engineering), Alcala de Henares, Madrid
+  from: 2013
+  to: 2009
+  description: I studied Computer Science specialicing on Knowledge Engineering (Data Mining, AI, etc.).
+               My final project was based on Usability metrics and how to improve them.

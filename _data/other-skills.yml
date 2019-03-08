@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Keeping Team Morale
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Bringing Cakes
+  percentage: 80
   color: success
+
+- name: Organising Activities
+  percentage: 80
+  color: blue
+
+- name: Volunteering 
+  percentage: 75
+  color: dark
