@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Always code as if the guy who ends up maintaining your code
   will be a violent psychopath who knows where you live.
 baseurl: "/resume"  # the subpath of your site, e.g. /blog
-url: "https://ginogalotti.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "ginogalotti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: ginogalotti/resume
 
 
@@ -17,7 +17,7 @@ markdown: kramdown
 # Author Info
 author:
   name     : Gino Galotti
-  image    : /img/avatar
+  image    : img/avatar
   email    : me@ginogalotti.com
   github   : ginogalotti
   linkedin : ginogalotti
