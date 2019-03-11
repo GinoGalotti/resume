@@ -39,7 +39,7 @@ defaults:
 
 
 # Posts default Permalink
-permalink: blog/:title
+permalink: posts/:title
 
 
 # Exclude from processing.
