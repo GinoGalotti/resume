@@ -14,7 +14,7 @@
 
   <main class="flex-shrink-0 container mt-5">
   {% include navbar.html %}
-  {{ content }}
+    {{ content | replace: '<a href="http', '<a rel="nofollow" target="_blank" href="http' }}
   </main>
 
   {% include footer.html %}
