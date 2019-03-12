@@ -77,6 +77,6 @@ I am also going to **take more risks**. I will assign a quota of resources I am 
 
 ## Conclusion
 
-I** feel lost**. Society makes me feel that I shouldn't feel lost, but there is no denying how I feel. I didn't have any big trauma during my childhood. I had an amazing parental example. I have never had any big problem. But I still can't find myself, regardless of all the privileges I am enjoying.
+I **feel lost**. Society makes me feel that I shouldn't feel lost, but there is no denying how I feel. I didn't have any big trauma during my childhood. I had an amazing parental example. I have never had any big problem. But I still can't find myself, regardless of all the privileges I am enjoying.
 
 I am ashamed of being lost, but that is nonsense. It is just part of my life. And, if you're lost, hopefully knowing that you are not alone helping.
