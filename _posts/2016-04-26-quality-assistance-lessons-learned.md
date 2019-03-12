@@ -3,7 +3,8 @@ layout: post
 title: Quality Assistance - Lessons learned
 date: 2016-04-26 22:52
 author: Gino Galotti
-categories: [Personal lessons, Quality Assistance, Testing]
+style: fill
+tags: [Personal lessons, Quality Assistance, Testing]
 ---
 <p style="text-align:justify;">This morning, [during my 10 idea routine,](https://callmegino.wordpress.com/2016/03/31/becoming-an-idea-machine/) I push myself to list techniques and activities that I've tried to change the Quality mindset around the company. You already know that we've been doing modelling some of the process following the [Quality Assistance](https://callmegino.wordpress.com/2016/04/03/meet-quality-assistance/) approach. I know that the outcome of these activities will drastically vary for each team, but hopefully knowing some experiences will help you try something similar. And, [as Scott Berkun explained amazingly here](https://youtu.be/amt3ag2BaKc), it's more important to learn from the failures than to just share the final idea. And certainly writing this will help me remember some details. I don't trust my memory that much...
 

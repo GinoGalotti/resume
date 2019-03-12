@@ -3,7 +3,8 @@ layout: post
 title: The no-QA way
 date: 2016-05-30 18:50
 author: Gino Galotti
-categories: [Quality Assistance, Testing]
+style: fill
+tags: [Quality Assistance, Testing]
 ---
 We're still finding out sweet spot regarding Quality and there are always some developers that think no "formal tester" is needed in our process right now. This approach even gains more followers [when you have an ex-Facebook in your team](http://www.zdnet.com/article/why-facebook-doesnt-have-or-need-testers/).
 

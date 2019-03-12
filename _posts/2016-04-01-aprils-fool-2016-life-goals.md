@@ -3,7 +3,8 @@ layout: post
 title: April's Fool 2016: Life goals
 date: 2016-04-01 19:43
 author: Gino Galotti
-categories: [Aprils Fool]
+style: fill
+tags: [Aprils Fool]
 ---
 April's fool it's undoubtedly one of my most important days, even if it doesn't have any particular meaning in the Spanish culture. That's why I always follow internet's pranks these days. Unfortunately, today's been a sick day at the office, so I haven't managed to check them properly.
 

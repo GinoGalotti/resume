@@ -3,7 +3,8 @@ layout: post
 title: Meet Quality Assistance
 date: 2016-04-03 21:23
 author: Gino Galotti
-categories: [Exploratory Testing, Quality Assistance, Testing]
+style: fill
+tags: [Exploratory Testing, Quality Assistance, Testing]
 ---
 Quality Assistance is a shift in the Testing industry that focuses on empowering the developer with testing knowledge and guidance so the development process can enough Agile speed. The principal promoter of the change is Atlassian, although some other companies are starting to embrace a similar approach (like Spotify)
 

@@ -3,7 +3,8 @@ layout: post
 title: How applying to another company made me a better tester
 date: 2016-03-30 10:42
 author: Gino Galotti
-categories: [Personal lessons, Testing]
+style: fill
+tags: [Personal lessons, Testing]
 ---
 I always say that a good professional has to be always in the market. Has to understand how the industry is shifting, what other companies are looking for, the new roles that are emerging and think about your career. Obviously, during the process, you start questioning if your current role is the one you really like, and usually apply to a position that better fits your current needs and expertise. In this case, I applied for my dream position but got a negative response during one of the last steps. But we are not here to talk about my failure _now_, so let's focus on why the experience made me a better tester for my employer at that moment instead.
 

@@ -3,7 +3,8 @@ layout: post
 title: My best colleague
 date: 2016-05-26 17:30
 author: Gino Galotti
-categories: [Personal lessons, Workplace, Testing]
+style: fill
+tags: [Personal lessons, Workplace, Testing]
 ---
 Today I spent my retrospective break thinking what I value from a colleague and why. The reasons were simple: identifying what is important to me, especially now that I'm reading [Subliminal](http://www.amazon.com/Subliminal-Your-Unconscious-Rules-Behavior/dp/0307472256); and understanding what makes them amazing colleagues will help shape myself into one. This is obviously personal preferences, and as you imagine most of the points are not even technical. So let's start!
 

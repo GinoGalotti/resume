@@ -3,7 +3,8 @@ layout: post
 title: Hi, I'm your tester
 date: 2016-03-22 23:04
 author: Gino Galotti
-categories: [James Bach, Testing]
+style: fill
+tags: [James Bach, Testing]
 ---
 Hi,
 

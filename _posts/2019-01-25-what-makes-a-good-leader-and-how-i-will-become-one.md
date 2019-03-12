@@ -3,8 +3,9 @@ layout: post
 title: What makes a good leader, and how I will become one
 date: 2019-01-25 08:49
 author: Gino Galotti
+style: fill
 image: /img/post/leadership.jpg
-categories: [Bussiness, Personal lessons]
+tags: [Bussiness, Personal lessons]
 ---
 Much of my job experiences have been heavily influenced by the leaders and managers I worked with. This seems to be a relevant topic, as you can also read many case studies of the heads from very successful companies scrolling through our social feeds. There are even science talks about the [impact leaders have in organizations](https://ideas.repec.org/a/cmj/seapas/y2015i7p289-294.html)! So I decided that there are some thoughts I want to share on the subject.
 

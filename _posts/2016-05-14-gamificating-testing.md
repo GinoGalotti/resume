@@ -3,7 +3,8 @@ layout: post
 title: Gamificating testing
 date: 2016-05-14 12:48
 author: Gino Galotti
-categories: [Gamification, Quaility Assistance, Testing]
+style: fill
+tags: [Gamification, Quaility Assistance, Testing]
 ---
 Gamification is one of those buzz words that you can easily find in articles, not only relating to the Software industry. There are numerous examples, both successes, and failures, but I want to talk about applying some gamification concepts to the testing world. I've never heard of any case, so I'll talk about some things we tried and ideas I want to try in the future.
 

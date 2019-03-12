@@ -3,7 +3,8 @@ layout: post
 title: My experiences with pair programming
 date: 2016-05-20 15:58
 author: Gino Galotti
-categories: [Personal lessons, Software Development, Testing]
+style: fill
+tags: [Personal lessons, Software Development, Testing]
 ---
 [Pair programming](https://en.wikipedia.org/wiki/Pair_programming) has been one of the buzz techniques for a while now. In our industry, you can find groupies of it, professionals who understand its value but don't know how to practice it and others who don't see its value but will defend it anyway. Its value has been proved over and over again, so any developer who talks against it will lose points with his peers.
 

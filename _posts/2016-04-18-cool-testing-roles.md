@@ -3,7 +3,8 @@ layout: post
 title: Modernise your testing roles
 date: 2016-04-18 15:08
 author: Gino Galotti
-categories: [Testing]
+style: fill
+tags: [Testing]
 ---
 Fortunately, the Testing industry is not only formed by Automation, Manual QA and QA Leads. Models are shifting (particularly due to Agile methodologies) and new approaches require new (and more interesting, in my opinion) roles. Here I'll talk about some of these roles, either real examples and some theoretical ones.
 

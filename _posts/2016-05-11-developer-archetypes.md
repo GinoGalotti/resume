@@ -3,7 +3,8 @@ layout: post
 title: Developer archetypes
 date: 2016-05-11 22:39
 author: Gino Galotti
-categories: [Quality Assistance, Software Development, Testing]
+style: fill
+tags: [Quality Assistance, Software Development, Testing]
 ---
 During my career, I've encountered numerous and very diverse professionals, which is one of the best perks of teamworking: you have to try really hard to not learn something from the experience, because learning how NO to do things is even more important than learning the best way. Reacting differently is always a factor that will empower the team as it'll allow a wider expertise. But, obviously, there are some behaviours which help to build teams, while others make it challenging.
 

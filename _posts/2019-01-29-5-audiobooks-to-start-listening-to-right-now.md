@@ -3,8 +3,9 @@ layout: post
 title: 5 Audiobooks to start listening to right now!
 date: 2019-01-29 09:00
 author: Gino Galotti
+style: fill
 image: /img/post/audio.jpg
-categories: [Books, Audiobooks, Personal lessons]
+tags: [Books, Audiobooks, Personal lessons]
 ---
 If I had to choose the habit that made the biggest impact in my life during 2018, it was for sure listening to Audiobooks. This allows me to enjoy my commute and training time more, adding up to more than 10 hours of "reading" a week! That is the main reason why I could beat [my challenge reading 29 books on the last year](https://www.goodreads.com/user_challenges/13935662)! And I even have four books under my belt so far on 2019.
 

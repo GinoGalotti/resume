@@ -3,7 +3,8 @@ layout: post
 title: Lessons learnt from Clean Coder
 date: 2016-05-17 22:43
 author: Gino Galotti
-categories: [Books, Personal lessons, Software Development, Testing]
+style: fill
+tags: [Books, Personal lessons, Software Development, Testing]
 ---
 Previously [I talked about Clean Code](https://callmegino.wordpress.com/2016/04/26/lessons-learnt-from-clean-code/), I want to focus this entry on how [Clean Coder:A Code of Conduct for Professional Programmers (Robert C. Martin)](http://www.amazon.co.uk/Clean-Coder-The-Professional-Programmers/dp/0137081073) made me evolve professionally. This book focuses on the professional aspect of a developer: the interactions with the rest of the team, the responsibilities of the roles, etc. I don't know how to keep things short so let's start with it!
 

@@ -3,7 +3,8 @@ layout: post
 title: Defining our QA process
 date: 2016-05-08 22:58
 author: Gino Galotti
-categories: [Automation, Testing]
+style: fill
+tags: [Automation, Testing]
 ---
 As [I mentioned before](https://callmegino.wordpress.com/2016/03/30/how-applying-to-another-company-made-me-a-better-tester/), we've been going through some structural changes recently. If we add to the equation a really tight deadline where we decided to drop the process and survive however we can; now we have some madness around. And, one of the craziest fields is quality and testing.
 

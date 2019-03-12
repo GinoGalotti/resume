@@ -3,7 +3,8 @@ layout: post
 title: Meet Rapid Software Testing
 date: 2016-03-24 17:30
 author: Gino Galotti
-categories: [James Bach, Rapid Software Testing, Testing]
+style: fill
+tags: [James Bach, Rapid Software Testing, Testing]
 ---
 Rapid Software Testing is a testing methodology defined by James Bach, Michael Bolton, and Paul Holland. This methodology focuses on the skillset and experience of the tester alongside with some rules and techniques to achieve a cost efficient quality assessment of a product. It is based on heuristics, fallible methods of solving a problem of making a decision. That's the main reason why the methodology empowers the tester, which is the one deciding how and when to use the heuristics. It also focuses on the story of the testing journey, giving as much importance to explaining how the test was, what has been found and what is missing to verify than the test itself.
 

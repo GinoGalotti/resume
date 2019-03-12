@@ -3,7 +3,8 @@ layout: post
 title: Becoming an idea machine
 date: 2016-03-31 11:39
 author: Gino Galotti
-categories: [Idea Machine, Personal lessons]
+style: fill
+tags: [Idea Machine, Personal lessons]
 ---
 This is not my idea, and I have to give full credits to James Altucher. [Here you can find a better description to this approach](http://www.jamesaltucher.com/2012/10/how-to-become-an-idea-machine/), and I highly recommend his book [Choose yourself](http://www.amazon.co.uk/Choose-Yourself-James-Altucher-ebook/dp/B00CO8D3G4) that has helped me a lot. The two ideas from the book which affected me the most were: [The daily practice](http://www.chooseyourself.me/daily-practice.html) which helps you maintaining a work/life balance and the Idea Machine methodology. I'm going to talk about how I approached the 10 ideas a day movement and how it changed me.
 

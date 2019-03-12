@@ -3,7 +3,8 @@ layout: post
 title: Why being a tester spoiled my life
 date: 2016-06-06 14:39
 author: Gino Galotti
-categories: [Personal lessons, Testing]
+style: fill
+tags: [Personal lessons, Testing]
 ---
 I truly believe that a great tester is born, as well as most other professions. Testing requires a strongly critical thinking, as well as perseverance and lateral thinking. There are some technical and products details that undoubtedly help in your daily work, but in my opinion, those skills don't make a great tester on their own.
 

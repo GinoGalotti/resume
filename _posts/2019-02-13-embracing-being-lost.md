@@ -3,8 +3,9 @@ layout: post
 title: Embracing being lost
 date: 2019-02-13 19:40
 author: Gino Galotti
+style: fill
 image: /img/post/missing-piece.jpg
-categories: [Personal lessons]
+tags: [Personal lessons]
 ---
 This post is more personal than usual, and I hope you can relate to some parts. I decided to share my struggle finding direction and goals. Let's start with an introduction.
 

@@ -3,7 +3,8 @@ layout: post
 title: Why I smiled when our servers melted
 date: 2016-03-28 14:52
 author: Gino Galotti
-categories: [Testing, The joy of breaking]
+style: fill
+tags: [Testing, The joy of breaking]
 ---
 Yes, it's true, I was cheering and dancing when our stress test melted our servers. I would be high-fiving the rest of the QA team if I wasn't the only one. No, I'm not enjoying that we have to buy another server, nor that you have to spend some time now setting everything up again. I'm celebrating it because, today, I feel useful in the team.
 

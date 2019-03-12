@@ -4,7 +4,7 @@ title: My last year
 date: 2016-06-02 13:48
 author: surth
 comments: true
-categories: [Personal lessons]
+tags: [Personal lessons]
 ---
 Now that I'm wrapping up my work while getting ready for my next challenge (I'm really looking forward starting the project!), I feel like it's the best time to make a personal retrospective about what I've done and what I've learnt. So... here we go!
 

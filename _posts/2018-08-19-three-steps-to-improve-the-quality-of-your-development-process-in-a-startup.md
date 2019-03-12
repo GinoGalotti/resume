@@ -3,8 +3,9 @@ layout: post
 title: Three steps to improve the quality of your development process in a startup
 date: 2018-08-19 10:04
 author: Gino Galotti
+style: fill
 image: /img/post/quality.jpg
-categories: [Quality Assistance, Testing]
+tags: [Quality Assistance, Testing]
 ---
 I've been working in the IT industry as a QA engineer since the start of my career. Sometimes, my position was just hands-on testing in a waterfall-like process; other times I worked closely with the developers to write all the automation needed before the feature was considered done. Every company offers a different approach on how to increase the quality of their product, and I've also seen companies trying the same thing with completely different results. But there is always something that kept being constant: when a company reaches enough user-mass or the codebase gets big enough, the conversation about ensuring quality gets more and more important. Speed and productivity matter less if you alienate the users with buggy releases, and your engineering team gets afraid of areas in your code which changes _always carry side effects_. That is the moment when the way of _just getting things done_ that has worked till now starts getting on the way of a healthy product. That's the point when the organization thinks on increasing the QA headcount.
 

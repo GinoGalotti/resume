@@ -3,7 +3,8 @@ layout: post
 title: Subconcious testing
 date: 2016-06-23 16:41
 author: Gino Galotti
-categories: [Testing]
+style: fill
+tags: [Testing]
 ---
 I've finished reading [Subliminal](http://www.amazon.com/Subliminal-Your-Unconscious-Rules-Behavior/dp/0307472256) recently and it confirmed an idea I always had: guts in testing make a huge different. I've already talked about great testers being born instead of trained. Experience, study and failing to teach you new skills to achieve better efficacy, but most of the decisions I take during testing sessions are gut-driven (and experience driven as well, always remember previous shit!).
 

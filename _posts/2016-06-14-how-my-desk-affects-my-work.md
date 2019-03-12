@@ -3,7 +3,8 @@ layout: post
 title: How my desk affects my work
 date: 2016-06-14 21:11
 author: Gino Galotti
-categories: [Workplace, Personal lessons, Testing]
+style: fill
+tags: [Workplace, Personal lessons, Testing]
 ---
 One of the amazing perks of a startup is the small office and teams, allowing you to spend plenty of time with colleagues from other fields. I'll write a post with all the amazing things I've learnt working with product managers, designer, developers and customer support; but today it's about something different. I want to talk about how changing who are you sitting with will drastically change your experience in the organisation, and even your career.
 

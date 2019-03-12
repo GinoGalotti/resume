@@ -3,7 +3,8 @@ layout: post
 title: It's always worse elsewhere
 date: 2016-06-09 13:27
 author: Gino Galotti
-categories: [Personal lessons, Testing]
+style: fill
+tags: [Personal lessons, Testing]
 ---
 Yesterday I share a couple of beers with some old friends who also work in the Software industry. They're working on a small Consultancy agency building websites using the same core, cutting most of the production costs as most of them use fairly similar implementations. Everything sounds right until they get surprised when I asked about their testing framework. "Well, before sending them to the client, we navigate through the site checking that anything breaks". Fair enough, I don't expect everyone to use Selenium. "The problem is when a client finds a bug. Most of them are part of the core so that bug is probably on every one of our projects, and we're afraid of refactoring anything". If the core is not a volatile piece of code, probably it'll be a good investment to build some functional tests verification on top of your unit test. "Unit what?". Bum. And then I remembered.
 

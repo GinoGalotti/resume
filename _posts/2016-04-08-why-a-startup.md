@@ -3,7 +3,8 @@ layout: post
 title: Why a startup
 date: 2016-04-08 23:11
 author: Gino Galotti
-categories: [Personal lessons, Workplace]
+style: fill
+tags: [Personal lessons, Workplace]
 ---
 I consider myself a lucky guy for numerous reasons, one of them is the luxury of have been working on energetic companies where most people want to change things and the stakeholders give you enough freedom to try your experiments. That gives I ended joining a startup, which is the final representation of this responsibility and freedom. Don't get me wrong, I like to say that startups give you as many perks than difficulties, but at this stage of my life and career it's the situation that best suits my experimentation craving.
 

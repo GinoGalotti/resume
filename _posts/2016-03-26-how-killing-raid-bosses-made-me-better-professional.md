@@ -3,7 +3,8 @@ layout: post
 title: How killing raid bosses made me better colleague
 date: 2016-03-26 22:23
 author: Gino Galotti
-categories: [Personal Lessons, Gaming, Testing]
+style: fill
+tags: [Personal Lessons, Gaming, Testing]
 ---
 OK, some of you won't even know that a raid boss is, and those who know won't probably see any relation; so let's start from the beginning.
 

@@ -3,7 +3,8 @@ layout: post
 title: Quality Assistance - Why we tried it
 date: 2016-04-11 11:40
 author: Gino Galotti
-categories: [Quality Assistance, Testing]
+style: fill
+tags: [Quality Assistance, Testing]
 ---
 As [I mentioned before]({{ site.baseurl }}{% post_url 2016-04-03-meet-quality-assistance %}), Quality Assistance is a testing methodology that focuses on empowering and support the developer on Testing tasks so the team can deliver at speed. In this post, I'm going to talk about the reasons why we tried this approach with our team, as well as some challenges we faced.
 

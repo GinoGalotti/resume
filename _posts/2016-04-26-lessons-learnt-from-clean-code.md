@@ -3,7 +3,8 @@ layout: post
 title: Lessons learnt from Clean Code
 date: 2016-04-26 21:17
 author: Gino Galotti
-categories: [Books, Personal lessons, Testing]
+style: fill
+tags: [Books, Personal lessons, Testing]
 ---
 Before start talking about how [Clean Code:A Handbook of Agile Software Craftsmanship by Robert C. Martin (Uncle Bob)](http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) affected me, I want to start recommending this book. It's well known inside the Software Development industry and, even if you don't see eye to eye with Uncle Bob, it has really good reflexion about how to structure your code. I was lucky that during my career I joined a company where reading this book was part of your first-year commitments, and we use it a lot while code reviewing as a common ground for arguments. But now, let's focus on what I learnt reading this book!
 

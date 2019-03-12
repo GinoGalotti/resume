@@ -3,7 +3,8 @@ layout: post
 title: Efficiency obsession - Power Reading
 date: 2016-06-28 18:17
 author: Gino Galotti
-categories: [Books, Personal lessons]
+style: fill
+tags: [Books, Personal lessons]
 ---
 My biggest quirk is this stupid obsession with efficiency. I've spoiled every aspect of my life because of this, and the saddest part is that I enjoy it. When I have a new toy the joy of discovering it ends pretty fast, and I just want to learn how to get the most out of it afterwards. Most of the times, I don't even need to apply that knowledge; just learning, discussing and testing it is more than enough.
 

@@ -3,7 +3,8 @@ layout: post
 title: The book of the five rings - Why
 date: 2016-07-04 18:35
 author: Gino Galotti
-categories: [Books, Personal lessons, Testing]
+style: fill
+tags: [Books, Personal lessons, Testing]
 ---
 I'm enjoying [The book of the five rings (Miyamoto Mushashi)](https://en.wikipedia.org/wiki/The_Book_of_Five_Rings) way more than what I thought. It's not only teaching m about martial arts and war but all the lessons are easily applicable to professional and personal situations. Even if I wish to never have to apply this knowledge about sword mastering in my real life (although with my passion of role games, I know they're going to be handy!), revisiting some experiences in my head as they were a duel, running through all the points Mushashi explain in this amazing book.
 

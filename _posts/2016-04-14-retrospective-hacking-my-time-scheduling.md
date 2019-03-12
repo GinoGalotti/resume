@@ -3,7 +3,8 @@ layout: post
 title: Retrospective: Hacking my time scheduling skills
 date: 2016-04-14 16:07
 author: Gino Galotti
-categories: [Personal lessons, Quality Assistance, Testing]
+style: fill
+tags: [Personal lessons, Quality Assistance, Testing]
 ---
 One of the pieces of feedback I've reiteratively got from my managers is my difficulty to say no, as well as how easy is for me to focus on new challenges sometimes setting aside key pieces of our roadmap. I want to believe that I've made some progress on the subject, although there's always room for improvement. I'm here to talk about one of the techniques which have been really successful in my case.
 

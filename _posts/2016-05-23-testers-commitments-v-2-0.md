@@ -3,7 +3,8 @@ layout: post
 title: Tester's commitments v 2.0
 date: 2016-05-23 14:53
 author: Gino Galotti
-categories: [Testing]
+style: fill
+tags: [Testing]
 ---
 I've already talked about [James Bach's tester's commitments]({{ site.baseurl }}{% post_url 2016-03-22-hi-im-your-tester %}), but I have problems making that promise to my colleagues, as I don't share some parts of them so I want to create my own version. I want to include Quality Assistance values, as well as some experiences; and keep them as short, simple and relevant as possible. These are my commitments:
 

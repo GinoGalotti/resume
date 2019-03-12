@@ -3,7 +3,8 @@ layout: post
 title: Cool automation tools
 date: 2016-06-20 16:19
 author: Gino Galotti
-categories: [Automation, Testing]
+style: fill
+tags: [Automation, Testing]
 ---
 Few months ago I started gathering all testing articles and examples that I came across. I have a really awful memory, and discussing with my QA Lead about different approaches I could just remember some of the details, which led to awkward conversations; so starting to build my own "Testing Bible" sounded like an amazing idea. And so I did.
 

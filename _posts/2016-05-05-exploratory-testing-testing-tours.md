@@ -3,7 +3,8 @@ layout: post
 title: Exploratory testing: Testing tours
 date: 2016-05-05 19:59
 author: Gino Galotti
-categories: [Exploratory Testing, Testing]
+style: fill
+tags: [Exploratory Testing, Testing]
 ---
 I've been talking about exploratory testing for a while now (either about [Rapid Software Testing](https://callmegino.wordpress.com/2016/03/24/meet-rapid-software-testing/) or [Quality Assistance](https://callmegino.wordpress.com/2016/04/03/meet-quality-assistance/)). I like to focus in this series on some testing techniques that I've learnt from the Exploratory world, although they can be applied to any testing practice. In this particular case, we're going to describe some Testing tours.
 

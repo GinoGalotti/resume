@@ -3,7 +3,8 @@ layout: post
 title: Automation is not always the best way
 date: 2016-04-20 19:32
 author: Gino Galotti
-categories: [Testing, Automation]
+style: fill
+tags: [Testing, Automation]
 ---
 After years of being a Software Developer in Test who primarily focuses on automated tests being the one defending why automated tests are worth the investment; it feels really strange to be the one convincing stakeholders that, right now, automated tests aren't the best solution we have to raise quality with the given situation. That's why I want to talk with you about why I came with this, how I dealt with stakeholders and what was the outcome.
 

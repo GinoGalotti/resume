@@ -3,7 +3,8 @@ layout: post
 title: Is moving abroad a company perk?
 date: 2016-05-02 20:53
 author: Gino Galotti
-categories: [Personal lessons, Workplace]
+style: fill
+tags: [Personal lessons, Workplace]
 ---
 I know that Internet is saturated with this subject, but I got asked several times about it and having a post to share instead of hand crafting a response is going to be really handy. I'm going to keep it as personal, funny and anecdotical as possible, making it different. Also, [you know that I'm following the 10-idea movement](https://callmegino.wordpress.com/2016/03/31/becoming-an-idea-machine/), so I'm going to use the same schema to detail 10 tips I want to yell to my 5-years-ago self. Let's do it!
 
